@@ -3,41 +3,7 @@
   "version": "3.7.0",
   "description": "A continuous development tool for Front End Development.",
   "main": "Gruntfile.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/epiphanysearch/boilerplate.git"
-  },
   "keywords": [],
-  "author": {
-    "name": "Epiphany Solutions",
-    "url": "http://www.epiphanysearch.co.uk/"
-  },
-  "contributors": [
-    {
-      "name": "Stephen Griffin",
-      "email": "stephen.griffin@epiphanysolutions.co.uk"
-    },
-    {
-      "name": "Chris Marsh",
-      "email": "chris.marsh@epiphanysolutions.co.uk"
-    },
-    {
-      "name": "Ian Harvey",
-      "email": "ian.harvey@epiphanysolutions.co.uk"
-    },
-    {
-      "name": "Thomas Nadin",
-      "email": "thomas.nadin@epiphanysolutions.co.uk"
-    },
-    {
-      "name": "Alex Bennett",
-      "email": "alex.bennett@epiphanysolutions.co.uk"
-    }
-  ],
-  "client": {
-    "name": "Epiphany",
-    "string": "Epiphany"
-  },
   "project": {
     "name": "Boilerplate",
     "title": "Boilerplate",
